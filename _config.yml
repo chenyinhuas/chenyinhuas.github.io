@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 木木木
+title: chenhuahua
 subtitle: ''
-description: '一位正在重塑和新增知识的技术人'
+description: '一位正在重塑和新增知识的测试人'
 keywords:
-author: Sensems
+author: chenhuahua
 language: zh-CN
 timezone: ''
 
@@ -103,5 +103,5 @@ theme: Aurora
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/Sensems/sensems.github.io.git
+  repo: git@github.com:chenyinhuas/chenyinhuas.github.io.git
   branch: gh-pages

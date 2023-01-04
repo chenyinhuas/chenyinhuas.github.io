@@ -7,7 +7,8 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "update": "hexo clean & hexo generate & hexo server"
+    "update": "hexo clean & hexo generate & hexo server",
+    "发布": "hexo deploy"
   },
   "hexo": {
     "version": "5.4.2"
